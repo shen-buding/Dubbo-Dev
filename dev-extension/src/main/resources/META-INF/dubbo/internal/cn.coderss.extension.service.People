@@ -1,0 +1,3 @@
+man=cn.coderss.extension.service.impl.Man
+women=cn.coderss.extension.service.impl.Women
+people=cn.coderss.extension.service.impl.PeopleWrapper
